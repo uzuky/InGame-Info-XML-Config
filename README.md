@@ -17,3 +17,8 @@ Minecraft を起動したら Mod Options を開き、 InGame Info XML の Config
 
 # License
 CC 4.0
+  
+# その他
+## 画像に使用しているリソースパック
+- ![Plast-Pack](https://github.com/Plastix/Plast-Pack) の font, gui, map, misc, particle  
+- ![C-tetra](http://forum.minecraftuser.jp/viewtopic.php?t=9154)
