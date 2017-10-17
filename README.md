@@ -1,5 +1,4 @@
 # InGame-Info-XML-Config
-# はじめに
 https://mods.io/mods/1022-ingame-info-xml より MOD をダウンロードしてください。  
 動作には Minecraft forge と LunatriusCore が必要です。上記リンク先のページにリンクがあります。  
   
@@ -8,9 +7,9 @@ InGameInfo XML を導入したら、ゲームディレクトリに config フォ
   
 以下の構成になっているはずです。  
   
-[ゲームディレクトリ (デフォルトでは .minecraft )]  
+__[ゲームディレクトリ (デフォルトでは .minecraft )]  
 　└[config]  
-　　└[InGameInfo.xml]  
+　　└[InGameInfo.xml]__  
   
 Minecraft を起動したら Mod Options を開き、 InGame Info XML の Config -> General と進み、 Show Potion Effects を **false** にします。  
 チャット中も表示したりなどの他の設定は好みで変えてください。  
