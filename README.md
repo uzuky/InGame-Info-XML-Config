@@ -12,7 +12,8 @@ __[ゲームディレクトリ (デフォルトでは .minecraft )]
 　└[config]  
 　　└[InGameInfo.xml]__  
   
-Minecraft を起動したら Mod Options を開き、 InGame Info XML の Config -> General と進み、 Show Potion Effects を **false** にします。  
+Minecraft を起動したら Mod Options を開き、 InGame Info XML の Config -> Alignment と進み、 **Bottom Left** の値を **2 0** とします。  
+次に Config -> General と進み、 **Show Potion Effects** を **false** にします。  
 チャット中も表示したりなどの他の設定は好みで変えてください。  
 
 # License
