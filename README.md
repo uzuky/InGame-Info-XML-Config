@@ -14,3 +14,6 @@ __[ゲームディレクトリ (デフォルトでは .minecraft )]
   
 Minecraft を起動したら Mod Options を開き、 InGame Info XML の Config -> General と進み、 Show Potion Effects を **false** にします。  
 チャット中も表示したりなどの他の設定は好みで変えてください。  
+
+# License
+CC 4.0
