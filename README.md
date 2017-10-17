@@ -21,5 +21,5 @@ CC 4.0
   
 # その他
 ## スクリーンショット内で使用しているリソースパック
-- ![Plast-Pack](https://github.com/Plastix/Plast-Pack) の font, gui, map, misc, particle  
-- ![C-tetra](http://forum.minecraftuser.jp/viewtopic.php?t=9154)
+- [Plast-Pack](https://github.com/Plastix/Plast-Pack) の font, gui, map, misc, particle  
+- [C-tetra](http://forum.minecraftuser.jp/viewtopic.php?t=9154)
